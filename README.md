@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## NOTES
+
+-- ng g module admin --> admin modulü oluşturuyoruz.
+-- ng g module ui --> ui modulü oluşturuyoruz. (default layout olacak)
+-- ng g module admin/layout --> sonrasında admin module e layout module ü import ediyoruz.
+-- ng g component admin/layout --> component i oluşturup ilgili module declare ediyoruz. (Component i kullanmak için ilgili modullere declare etmek gerekiyor)
+
+
+
