@@ -56,6 +56,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 -- ng g module ui/components/home --> ui da baskets in componentlerini tutan module
 -- ng g component ui/components/home --> baskets ın componentleri
 
+--- Tüm componentler için bir rota belirlenir.
 
 
 
